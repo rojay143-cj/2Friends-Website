@@ -68,7 +68,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="assets\image\About-Us_HollyZachman.png"
+                src="assets/image/About-Us_HollyZachman.png"
                 alt="HollyZachman"
                 className="rounded-2xl shadow-xl w-full"
               />
@@ -132,7 +132,7 @@ export default function About() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="assets\image\About-Us_Bob-Proctor.png"
+                src="assets/image/About-Us_Bob-Proctor.png"
                 alt="Bob"
                 className="rounded-2xl shadow-xl w-full"
               />

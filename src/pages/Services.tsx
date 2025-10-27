@@ -134,7 +134,7 @@ export default function Services({ onNavigate }: ServicesProps) {
             </div>
             <div className="bg-gradient-to-br from-brand-blue-light to-white rounded-2xl p-8 lg:p-12">
               <img
-                src="assets\image\2Friends - Webinar.png"
+                src="assets/image/2Friends - Webinar.png"
                 alt="Webinar"
                 className="rounded-xl shadow-lg w-full mb-6"
               />
