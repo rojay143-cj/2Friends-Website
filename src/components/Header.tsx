@@ -25,7 +25,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => onNavigate('home')}
           >
             <img
-              src="assets/image/2Friends - Logo Transparent Black.png"
+              src="/image/2Friends - Logo Transparent Black.png"
               alt="2 Friends Coaching"
               className="h-60 w-auto"
             />
