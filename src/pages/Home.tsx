@@ -42,7 +42,7 @@ export default function Home({ onNavigate }: HomeProps) {
               Partner with a Friend
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              At 2 Friends Coaching & Consulting, we're here to support you in achieving your goals.
+              At Two Friends Coaching & Consulting, we're here to support you in achieving your goals.
             </p>
           </div>
 

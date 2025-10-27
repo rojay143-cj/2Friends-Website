@@ -10,7 +10,7 @@ export default function About() {
               About Us
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Welcome to 2 Friends Coaching & Consulting!
+              Welcome to Two Friends Coaching & Consulting!
             </p>
           </div>
 

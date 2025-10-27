@@ -58,7 +58,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         </div>
 
         <div className="border-t border-gray-300 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} 2 Friends Coaching & Consulting. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Two Friends Coaching & Consulting. All rights reserved.</p>
         </div>
       </div>
     </footer>
